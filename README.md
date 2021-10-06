@@ -4,3 +4,6 @@ Hi my name is Konstantinos and those are the unity files for two out of the thre
 For the built versions follow this link:
 https://itch.io/profile/kosleon
 
+mix and game jam = space CTLER
+mix and game jam 2 = blind knight
+
