@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 04c8b4e3d659cce4ca52e3ac09704768
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 836706653343118816
+    second: MIXINGAMEJAM-WALLS_0
+  - first:
+      213: 6910355812447400344
+    second: MIXINGAMEJAM-WALLS_1
+  - first:
+      213: -5162317192736377932
+    second: MIXINGAMEJAM-WALLS_2
+  - first:
+      213: 6814303105352160997
+    second: MIXINGAMEJAM-WALLS_3
+  - first:
+      213: -1353092145058061705
+    second: MIXINGAMEJAM-WALLS_4
+  - first:
+      213: -4942856605706858660
+    second: MIXINGAMEJAM-WALLS_5
+  - first:
+      213: 5594933085621386210
+    second: MIXINGAMEJAM-WALLS_6
+  - first:
+      213: -5397680235735369606
+    second: MIXINGAMEJAM-WALLS_7
+  - first:
+      213: 5969844773802405714
+    second: MIXINGAMEJAM-WALLS_8
+  - first:
+      213: -9122672718483811709
+    second: MIXINGAMEJAM-WALLS_9
+  - first:
+      213: -5333465788874396041
+    second: MIXINGAMEJAM-WALLS_10
+  - first:
+      213: -621483212091945012
+    second: MIXINGAMEJAM-WALLS_11
+  - first:
+      213: -8820886698773145771
+    second: MIXINGAMEJAM-WALLS_12
+  - first:
+      213: -2594701032138204140
+    second: MIXINGAMEJAM-WALLS_13
+  - first:
+      213: 865554638207398740
+    second: MIXINGAMEJAM-WALLS_14
+  - first:
+      213: 6490187023883636214
+    second: MIXINGAMEJAM-WALLS_15
+  - first:
+      213: 1586131477693753832
+    second: MIXINGAMEJAM-WALLS_16
+  - first:
+      213: 1999445601903261112
+    second: MIXINGAMEJAM-WALLS_17
+  - first:
+      213: -4734845024958566605
+    second: MIXINGAMEJAM-WALLS_18
+  - first:
+      213: 4747651093103920440
+    second: MIXINGAMEJAM-WALLS_19
+  - first:
+      213: 4112921868023358063
+    second: MIXINGAMEJAM-WALLS_20
+  - first:
+      213: -7854583675818313822
+    second: MIXINGAMEJAM-WALLS_21
+  - first:
+      213: 6921504208732451556
+    second: MIXINGAMEJAM-WALLS_22
+  - first:
+      213: 8353613086033464869
+    second: MIXINGAMEJAM-WALLS_23
+  - first:
+      213: 2282759477050039179
+    second: MIXINGAMEJAM-WALLS_24
+  - first:
+      213: 5566053396811388724
+    second: MIXINGAMEJAM-WALLS_25
+  - first:
+      213: -1703614700213033485
+    second: MIXINGAMEJAM-WALLS_26
+  - first:
+      213: 8391508244943359842
+    second: MIXINGAMEJAM-WALLS_27
+  - first:
+      213: 6076144440677463347
+    second: MIXINGAMEJAM-WALLS_0
+  - first:
+      213: -7639229044577524513
+    second: MIXINGAMEJAM-WALLS_1
+  - first:
+      213: -1696038336986221900
+    second: MIXINGAMEJAM-WALLS_2
+  - first:
+      213: 6277574264951721608
+    second: MIXINGAMEJAM-WALLS_3
+  - first:
+      213: -8729465869397522971
+    second: MIXINGAMEJAM-WALLS_4
+  - first:
+      213: 3918122201366019035
+    second: MIXINGAMEJAM-WALLS_5
+  - first:
+      213: 1932089405396763096
+    second: MIXINGAMEJAM-WALLS_6
+  - first:
+      213: -6006547035165812616
+    second: MIXINGAMEJAM-WALLS_7
+  - first:
+      213: 7379685262077191657
+    second: MIXINGAMEJAM-WALLS_8
+  - first:
+      213: 2209823680284688848
+    second: MIXINGAMEJAM-WALLS_9
+  - first:
+      213: 7128327974529747211
+    second: MIXINGAMEJAM-WALLS_10
+  - first:
+      213: -8302380494486777166
+    second: MIXINGAMEJAM-WALLS_11
+  - first:
+      213: 6014696637159120253
+    second: MIXINGAMEJAM-WALLS_12
+  - first:
+      213: 6280875345077337227
+    second: MIXINGAMEJAM-WALLS_13
+  - first:
+      213: 3082489424679258083
+    second: MIXINGAMEJAM-WALLS_14
+  - first:
+      213: -6664302954009601096
+    second: MIXINGAMEJAM-WALLS_15
+  - first:
+      213: 3102385633170551102
+    second: MIXINGAMEJAM-WALLS_16
+  - first:
+      213: 7813088384218454183
+    second: MIXINGAMEJAM-WALLS_17
+  - first:
+      213: -2395125136803411728
+    second: MIXINGAMEJAM-WALLS_18
+  - first:
+      213: -4619506205063035610
+    second: MIXINGAMEJAM-WALLS_19
+  - first:
+      213: 9135358864804919541
+    second: MIXINGAMEJAM-WALLS_20
+  - first:
+      213: -5548687564486188131
+    second: MIXINGAMEJAM-WALLS_21
+  - first:
+      213: 6322456539310975142
+    second: MIXINGAMEJAM-WALLS_22
+  - first:
+      213: 2288932962232791185
+    second: MIXINGAMEJAM-WALLS_23
+  - first:
+      213: 7048261592272467863
+    second: MIXINGAMEJAM-WALLS_24
+  - first:
+      213: 2526708724478742508
+    second: MIXINGAMEJAM-WALLS_25
+  - first:
+      213: -8045314049034101879
+    second: MIXINGAMEJAM-WALLS_26
+  - first:
+      213: 6127552877033331778
+    second: MIXINGAMEJAM-WALLS_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3357b8e0d2dc25450800000000000000
+      internalID: 6076144440677463347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd42c1888a10cf590800000000000000
+      internalID: -7639229044577524513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2fd765e167678e0800000000000000
+      internalID: -1696038336986221900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ec491b88c6e1750800000000000000
+      internalID: 6277574264951721608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e50aafda05bad680800000000000000
+      internalID: -8729465869397522971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb3efe0267ff5630800000000000000
+      internalID: 3918122201366019035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d148fad31920da10800000000000000
+      internalID: 1932089405396763096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878144aab4574aca0800000000000000
+      internalID: -6006547035165812616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5eb4885a8e96660800000000000000
+      internalID: 7379685262077191657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d18d97ddeedaae10800000000000000
+      internalID: 2209823680284688848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09435c7688ece260800000000000000
+      internalID: 7128327974529747211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2dbfb9de408cc80800000000000000
+      internalID: -8302380494486777166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d1b9969be787350800000000000000
+      internalID: 6014696637159120253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cf7dd49d62a2750800000000000000
+      internalID: 6280875345077337227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7c7edccc337ca20800000000000000
+      internalID: 3082489424679258083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbdba6b5c3a383a0800000000000000
+      internalID: -6664302954009601096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f765db43ed0b20800000000000000
+      internalID: 3102385633170551102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8521c6d7aad6c60800000000000000
+      internalID: 7813088384218454183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f84934c06ec2ced0800000000000000
+      internalID: -2395125136803411728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6254189e49734efb0800000000000000
+      internalID: -4619506205063035610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b9608c7057ce70800000000000000
+      internalID: 9135358864804919541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d936c2dee0a1ff2b0800000000000000
+      internalID: -5548687564486188131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8e97589b0edb750800000000000000
+      internalID: 6322456539310975142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1907190e66ce3cf10800000000000000
+      internalID: 2288932962232791185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797fd6b239470d160800000000000000
+      internalID: 7048261592272467863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef8f65a23ca01320800000000000000
+      internalID: 2526708724478742508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bdcd09f7d495090800000000000000
+      internalID: -8045314049034101879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIXINGAMEJAM-WALLS_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c9ef160e0790550800000000000000
+      internalID: 6127552877033331778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
